@@ -1,0 +1,28 @@
+winscp> option batch abort
+batch           abort     
+winscp> option confirm off
+confirm         off       
+winscp> open 192.168.178.62
+Searching for host...
+Connecting to host...
+Authenticating...
+Username: root
+Password: alpine
+Authenticated.
+Starting the session...
+Reading remote directory...
+Session started.
+Active session: [1] 192.168.178.62
+winscp> cd /etc/
+/private/etc
+winscp> put C:\Users\Validati0n\AppData\Local\Temp\SiriProx\hosts
+C:\Users\Validati0n\AppData\Local\Temp\SiriProx\hosts |          0 KiB |    0,0 KiB/s | binary | 100%
+winscp> cd "hosts"
+/private/etc/hosts
+winscp> chmod 0777 *
+Error listing directory '/private/etc/hosts'.
+No such file or directory.
+Error code: 2
+Error message from server: No such file
+Request code: 11
+(A)bort, (R)etry, (S)kip: Abort

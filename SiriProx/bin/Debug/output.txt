@@ -1,0 +1,22 @@
+winscp> option batch abort
+batch           abort     
+winscp> option confirm off
+confirm         off       
+winscp> open 192.168.178.62
+Searching for host...
+Connecting to host...
+Authenticating...
+Username: root
+Password: alpine
+Authenticated.
+Starting the session...
+Reading remote directory...
+Session started.
+Active session: [1] 192.168.178.62
+winscp> cd /var/mobile/Library/Preferences/
+/private/var/mobile/Library/Preferences
+winscp> put C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\bin\Debug\com.chpwn.spire.preferences.plist
+File or folder 'C:\Users\Validati0n\Desktop\All' does not exist.
+System Error.  Code: 2.
+Das System kann die angegebene Datei nicht finden
+(A)bort, (R)etry, (S)kip, Ski(p) all: Abort

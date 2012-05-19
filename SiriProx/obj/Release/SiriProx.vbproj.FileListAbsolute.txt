@@ -1,0 +1,26 @@
+C:\Users\Mirco2\Desktop\VisualBasic\SiriProx\SiriProx\bin\Release\SiriProx.exe.config
+C:\Users\Mirco2\Desktop\VisualBasic\SiriProx\SiriProx\bin\Release\SiriProx.exe
+C:\Users\Mirco2\Desktop\VisualBasic\SiriProx\SiriProx\bin\Release\SiriProx.pdb
+C:\Users\Mirco2\Desktop\VisualBasic\SiriProx\SiriProx\bin\Release\SiriProx.xml
+C:\Users\Mirco2\Desktop\VisualBasic\SiriProx\SiriProx\bin\Release\MobileDevice.dll
+C:\Users\Mirco2\Desktop\VisualBasic\SiriProx\SiriProx\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Mirco2\Desktop\VisualBasic\SiriProx\SiriProx\obj\Release\SiriProx.Form1.resources
+C:\Users\Mirco2\Desktop\VisualBasic\SiriProx\SiriProx\obj\Release\SiriProx.Resources.resources
+C:\Users\Mirco2\Desktop\VisualBasic\SiriProx\SiriProx\obj\Release\ResGen.read.1.tlog
+C:\Users\Mirco2\Desktop\VisualBasic\SiriProx\SiriProx\obj\Release\ResGen.write.1.tlog
+C:\Users\Mirco2\Desktop\VisualBasic\SiriProx\SiriProx\obj\Release\SiriProx.exe
+C:\Users\Mirco2\Desktop\VisualBasic\SiriProx\SiriProx\obj\Release\SiriProx.xml
+C:\Users\Mirco2\Desktop\VisualBasic\SiriProx\SiriProx\obj\Release\SiriProx.pdb
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\bin\Release\SiriProx.exe.config
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\obj\Release\SiriProx.exe
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\obj\Release\SiriProx.xml
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\obj\Release\SiriProx.pdb
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\bin\Release\SiriProx.exe
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\bin\Release\SiriProx.pdb
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\bin\Release\SiriProx.xml
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\bin\Release\MobileDevice.dll
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\obj\Release\SiriProx.Form1.resources
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\obj\Release\SiriProx.Resources.resources
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\obj\Release\ResGen.read.1.tlog
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\obj\Release\ResGen.write.1.tlog

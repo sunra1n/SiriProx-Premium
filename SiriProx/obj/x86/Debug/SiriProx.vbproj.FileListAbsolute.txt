@@ -1,0 +1,55 @@
+C:\Users\sunra1n\AppData\Local\Temporary Projects\SiriProx\bin\Debug\SiriProx.exe
+C:\Users\sunra1n\AppData\Local\Temporary Projects\SiriProx\bin\Debug\SiriProx.pdb
+C:\Users\sunra1n\AppData\Local\Temporary Projects\SiriProx\bin\Debug\SiriProx.xml
+C:\Users\sunra1n\AppData\Local\Temporary Projects\SiriProx\bin\Debug\MobileDevice.dll
+C:\Users\sunra1n\AppData\Local\Temporary Projects\SiriProx\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sunra1n\AppData\Local\Temporary Projects\SiriProx\obj\x86\Debug\SiriProx.Form1.resources
+C:\Users\sunra1n\AppData\Local\Temporary Projects\SiriProx\obj\x86\Debug\SiriProx.Resources.resources
+C:\Users\sunra1n\AppData\Local\Temporary Projects\SiriProx\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\sunra1n\AppData\Local\Temporary Projects\SiriProx\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\sunra1n\AppData\Local\Temporary Projects\SiriProx\obj\x86\Debug\SiriProx.exe
+C:\Users\sunra1n\AppData\Local\Temporary Projects\SiriProx\obj\x86\Debug\SiriProx.xml
+C:\Users\sunra1n\AppData\Local\Temporary Projects\SiriProx\obj\x86\Debug\SiriProx.pdb
+C:\Users\Mirco2\Desktop\VisualBasic\SiriProx\SiriProx\obj\x86\Debug\SiriProx.exe
+C:\Users\Mirco2\Desktop\VisualBasic\SiriProx\SiriProx\obj\x86\Debug\SiriProx.xml
+C:\Users\Mirco2\Desktop\VisualBasic\SiriProx\SiriProx\obj\x86\Debug\SiriProx.pdb
+C:\Users\Mirco2\Desktop\VisualBasic\SiriProx\SiriProx\bin\Debug\SiriProx.exe
+C:\Users\Mirco2\Desktop\VisualBasic\SiriProx\SiriProx\bin\Debug\SiriProx.pdb
+C:\Users\Mirco2\Desktop\VisualBasic\SiriProx\SiriProx\bin\Debug\SiriProx.xml
+C:\Users\Mirco2\Desktop\VisualBasic\SiriProx\SiriProx\bin\Debug\MobileDevice.dll
+C:\Users\Mirco2\Desktop\VisualBasic\SiriProx\SiriProx\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Mirco2\Desktop\VisualBasic\SiriProx\SiriProx\obj\x86\Debug\SiriProx.Form1.resources
+C:\Users\Mirco2\Desktop\VisualBasic\SiriProx\SiriProx\obj\x86\Debug\SiriProx.Resources.resources
+C:\Users\Mirco2\Desktop\VisualBasic\SiriProx\SiriProx\bin\Debug\SiriProx.exe.config
+C:\Users\Mirco2\Desktop\VisualBasic\SiriProx\SiriProx\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Mirco2\Desktop\VisualBasic\SiriProx\SiriProx\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\bin\Debug\SiriProx.exe.config
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\obj\x86\Debug\SiriProx.exe
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\obj\x86\Debug\SiriProx.xml
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\obj\x86\Debug\SiriProx.pdb
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\bin\Debug\SiriProx.exe
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\bin\Debug\SiriProx.pdb
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\bin\Debug\SiriProx.xml
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\bin\Debug\MobileDevice.dll
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\obj\x86\Debug\SiriProx.Form1.resources
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\obj\x86\Debug\SiriProx.Resources.resources
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\bin\Debug\Ionic.Zip.dll
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\bin\Debug\DiffieHellman.dll
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\bin\Debug\Org.Mentalis.Security.dll
+C:\Users\Validati0n\Desktop\All my things 'herz'\SiriProx\SiriProx\bin\Debug\Tamir.SharpSSH.dll
+C:\Users\sunra1n\Desktop\SiriProx\SiriProx\bin\Debug\SiriProx.exe.config
+C:\Users\sunra1n\Desktop\SiriProx\SiriProx\obj\x86\Debug\SiriProx.exe
+C:\Users\sunra1n\Desktop\SiriProx\SiriProx\obj\x86\Debug\SiriProx.xml
+C:\Users\sunra1n\Desktop\SiriProx\SiriProx\obj\x86\Debug\SiriProx.pdb
+C:\Users\sunra1n\Desktop\SiriProx\SiriProx\bin\Debug\SiriProx.exe
+C:\Users\sunra1n\Desktop\SiriProx\SiriProx\bin\Debug\SiriProx.pdb
+C:\Users\sunra1n\Desktop\SiriProx\SiriProx\bin\Debug\SiriProx.xml
+C:\Users\sunra1n\Desktop\SiriProx\SiriProx\bin\Debug\MobileDevice.dll
+C:\Users\sunra1n\Desktop\SiriProx\SiriProx\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\sunra1n\Desktop\SiriProx\SiriProx\obj\x86\Debug\SiriProx.Form1.resources
+C:\Users\sunra1n\Desktop\SiriProx\SiriProx\obj\x86\Debug\SiriProx.Resources.resources
+C:\Users\sunra1n\Desktop\SiriProx\SiriProx\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\sunra1n\Desktop\SiriProx\SiriProx\obj\x86\Debug\ResGen.write.1.tlog
