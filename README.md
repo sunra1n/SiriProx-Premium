@@ -12,6 +12,6 @@ Take a look in the background.vb to change the MYSQL Database ...
 Much fun !
 If you publish this tool under your name please add our names to the credits :)
 
-Credits :
+Credits : © 
           -sunra1n     (https://github.com/sunra1n)
           -Validati0n (https://github.com/validati0n)
